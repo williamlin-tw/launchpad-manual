@@ -20,8 +20,9 @@ allows you to use Launchpad to do all or any of the following:
 -  offer an easy way for your project's users to post and answer support
    questions.
 
-      .. tip::
-          If you want to register a translation or Ubuntu loco team in Launchpad, please create a new team, not a project.
+   .. tip::
+      If you want to register a translation or Ubuntu loco team in Launchpad, please 
+      create a new team, not a project.
 
 Log in to Launchpad
 --------------------------- 
