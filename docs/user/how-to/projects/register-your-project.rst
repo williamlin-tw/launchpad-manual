@@ -58,7 +58,7 @@ In this screen-shot of the Blueprint Tracker's project page, the summary
 is highlighted with a red line and the description with a blue line.
 
 Identify the project group (optional)
----------------------------------- 
+-------------------------------------- 
 If your project is part of a wider project group, you can
 tell Launchpad by changing the project's details. On the project overview page, select 
 :guilabel:`Change details` and enter the project group's name in the :guilabel:`Part 
@@ -84,5 +84,5 @@ take you straight to your new project page.
 
       .. tip::
           Once you've registered your project, you can use Launchpad to host your 
-          project's downloadable files. Find out more about :ref:`file downloads <making-your-
-          project-files-available-for-download>`.
+          project's downloadable files. Find out more about 
+          :ref:`file downloads <making-your-project-files-available-for-download>`.
