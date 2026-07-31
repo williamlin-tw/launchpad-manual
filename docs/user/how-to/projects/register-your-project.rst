@@ -57,6 +57,19 @@ the summary is also shown in search results.
 In this screen-shot of the Blueprint Tracker's project page, the summary
 is highlighted with a red line and the description with a blue line.
 
+.. figure:: /user/images/launchpad-summary-description.png
+.. alt:: Screenshot showing Launchpad project summary and description.
+
+Add your project
+------------------------ 
+When you're ready, click the button to complete the registration. Launchpad will now 
+take you straight to your new project page.
+
+.. tip::
+   Once you've registered your project, you can use Launchpad to host your 
+   project's downloadable files. Find out more about 
+   :ref:`file downloads <making-your-project-files-available-for-download>`.
+
 Identify the project group (optional)
 -------------------------------------- 
 If your project is part of a wider project group, you can
@@ -71,18 +84,8 @@ If you make this project part of a project group, the group preferences
 and decisions around bug tracking, translation and security policy will
 also apply to this project.
 
-      .. note::
-          You can request a new project group by emailing feedback@launchpad.net. 
-          Describe your project, its constituent parts and why a project group is the best way to 
-          organise them. Launchpad team administrators will reply to let you know if your request 
-          has been successful.
-
-Add your project
------------------------- 
-When you're ready, click the button to complete the registration. Launchpad will now 
-take you straight to your new project page.
-
-      .. tip::
-          Once you've registered your project, you can use Launchpad to host your 
-          project's downloadable files. Find out more about 
-          :ref:`file downloads <making-your-project-files-available-for-download>`.
+.. note::
+   You can request a new project group by emailing feedback@launchpad.net. 
+   Describe your project, its constituent parts and why a project group is the best way to 
+   organise them. Launchpad team administrators will reply to let you know if your request 
+   has been successful.
