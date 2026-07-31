@@ -7,8 +7,6 @@
 Register your project
 =====================
 
-.. include:: /includes/important_not_revised_help.rst
-
 Registering your project in Launchpad takes just a few minutes and
 allows you to use Launchpad to do all or any of the following:
 
@@ -21,8 +19,8 @@ allows you to use Launchpad to do all or any of the following:
    questions.
 
    .. tip::
-      If you want to register a translation or Ubuntu loco team in Launchpad, please 
-      create a new team, not a project.
+      If you want to register a translation or Ubuntu loco team in Launchpad,
+      please create a new team, not a project.
 
 Log in to Launchpad
 --------------------------- 
@@ -51,8 +49,8 @@ contexts:
 
 Review project summary and description
 ---------------------------------------------- 
-Your project summary and description are used on your project's homepage. A portion of 
-the summary is also shown in search results.
+Your project summary and description are used on your project's homepage. A
+portion of the summary is also shown in search results.
 
 In this screen-shot of the Blueprint Tracker's project page, the summary
 is highlighted with a red line and the description with a blue line.
@@ -62,8 +60,8 @@ is highlighted with a red line and the description with a blue line.
 
 Add your project
 ------------------------ 
-When you're ready, click the button to complete the registration. Launchpad will now 
-take you straight to your new project page.
+When you're ready, click the button to complete the registration. Launchpad
+will now take you straight to your new project page.
 
 .. tip::
    Once you've registered your project, you can use Launchpad to host your 
@@ -73,10 +71,10 @@ take you straight to your new project page.
 Identify the project group (optional)
 -------------------------------------- 
 If your project is part of a wider project group, you can
-tell Launchpad by changing the project's details. On the project overview page, select 
-:guilabel:`Change details` and enter the project group's name in the :guilabel:`Part 
-of` text-box. If you're not sure of the project group's exact Launchpad name, you can 
-also search for it.
+tell Launchpad by changing the project's details. On the project overview page,
+select :guilabel:`Change details` and enter the project group's name in the
+:guilabel:`Part of` text-box. If you're not sure of the project group's exact
+Launchpad name, you can also search for it.
 
 For example: Blueprint is part of the launchpad-project group.
 
@@ -86,6 +84,6 @@ also apply to this project.
 
 .. note::
    You can request a new project group by emailing feedback@launchpad.net. 
-   Describe your project, its constituent parts and why a project group is the best way to 
-   organise them. Launchpad team administrators will reply to let you know if your request 
-   has been successful.
+   Describe your project, its constituent parts and why a project group is the
+   best way to organise them. Launchpad team administrators will reply to let
+   you know if your request has been successful.
