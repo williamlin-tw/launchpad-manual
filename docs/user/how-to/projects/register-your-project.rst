@@ -58,7 +58,7 @@ In this screen-shot of the Blueprint Tracker's project page, the summary
 is highlighted with a red line and the description with a blue line.
 
 .. figure:: /user/images/launchpad-summary-description.png
-.. alt:: Screenshot showing Launchpad project summary and description.
+   :alt: Screenshot showing Launchpad project summary and description.
 
 Add your project
 ------------------------ 
